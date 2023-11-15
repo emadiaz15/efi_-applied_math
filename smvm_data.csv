@@ -1,4 +1,4 @@
-Fecha,Valor_en_ARS,Variación_nominal_$,Variación_interanual_%,Valor_en_USD,smvm_mensual,smvm_diario,smvm_hora,Normativa
+Fecha,Valor_en_ARS,Variación_nominal_%,Variación_interanual_%,Valor_en_USD,smvm_mensual,smvm_diario,smvm_hora,Normativa
 01/01/2010,1500,4.17,16.67,392.67,1500.0,60.0,7.5,Res. 2/09 CNEPySMVyM
 01/08/2010,1740,16,24.29,439.94,1740.0,69.6,8.7,Res. 2/10 CNEPySMVyM
 01/01/2011,1840,5.75,22.67,460,1840.0,73.6,9.2,Res. 2/10 CNEPySMVyM
