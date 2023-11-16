@@ -40,4 +40,4 @@ El conjunto de datos presenta información relacionada con características diag
 31. **simetría_peor:** La peor simetría de las células.
 32. **dimensión_fractal_peor:** La peor dimensión fractal de las células.
 
-[ANÁLISIS PREDICTIVO](https://gist.github.com/emadiaz15/52da3e5ae826a7d28b8c8fe08ad24cd2)
+[ANÁLISIS PREDICTIVO](https://gist.github.com/emadiaz15/482c5c019a1bf0a051371e05b171b09b)
